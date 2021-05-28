@@ -71,7 +71,6 @@ struct HomeView: View {
                             NavigationLink(destination: FoodDetailView()) {
                                 FoodItemView(food: food)
                             }
-                            
                         }
                     }
                     .padding(EdgeInsets(top: 50, leading: 50, bottom: 0, trailing: 40))
@@ -134,7 +133,7 @@ struct Food : Identifiable {
     let foodName: String
     let price: String
     
-    static let foodList = [
+    static var foodList = [
         Food(image: "foodie", foodName: "Veggie tomato mix", price: "N1,900"),
         Food(image: "food2", foodName: "Egg and cucmber", price: "N1,900"),
         Food(image: "food3", foodName: "Fried chicken meal", price: "N1,900"),

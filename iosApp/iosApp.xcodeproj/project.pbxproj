@@ -16,6 +16,7 @@
 		B736D5B7265FB30300C47D13 /* GenericButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = B736D5B6265FB30300C47D13 /* GenericButton.swift */; };
 		B736D5B9265FB85900C47D13 /* CheckoutView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B736D5B8265FB85900C47D13 /* CheckoutView.swift */; };
 		B736D5BB265FDCDD00C47D13 /* RadioButtonField.swift in Sources */ = {isa = PBXBuildFile; fileRef = B736D5BA265FDCDC00C47D13 /* RadioButtonField.swift */; };
+		B736D5BD2660E85200C47D13 /* CartView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B736D5BC2660E85200C47D13 /* CartView.swift */; };
 		B7DE07C4265D0A30006BA75F /* Asset.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B7DE07C3265D0A30006BA75F /* Asset.xcassets */; };
 		B7DE07C6265D0E1C006BA75F /* GetStarted.swift in Sources */ = {isa = PBXBuildFile; fileRef = B7DE07C5265D0E1C006BA75F /* GetStarted.swift */; };
 		B7DE07CA265D1550006BA75F /* ProText_Semibold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = B7DE07C8265D1550006BA75F /* ProText_Semibold.ttf */; };
@@ -52,6 +53,7 @@
 		B736D5B6265FB30300C47D13 /* GenericButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GenericButton.swift; sourceTree = "<group>"; };
 		B736D5B8265FB85900C47D13 /* CheckoutView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CheckoutView.swift; sourceTree = "<group>"; };
 		B736D5BA265FDCDC00C47D13 /* RadioButtonField.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RadioButtonField.swift; sourceTree = "<group>"; };
+		B736D5BC2660E85200C47D13 /* CartView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CartView.swift; sourceTree = "<group>"; };
 		B7DE07C3265D0A30006BA75F /* Asset.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Asset.xcassets; sourceTree = "<group>"; };
 		B7DE07C5265D0E1C006BA75F /* GetStarted.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GetStarted.swift; sourceTree = "<group>"; };
 		B7DE07C8265D1550006BA75F /* ProText_Semibold.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = ProText_Semibold.ttf; sourceTree = "<group>"; };
@@ -108,6 +110,7 @@
 				B7DE07D9265E81F4006BA75F /* FoodDetailView.swift */,
 				B736D5B3265F963A00C47D13 /* ProfileView.swift */,
 				B736D5B8265FB85900C47D13 /* CheckoutView.swift */,
+				B736D5BC2660E85200C47D13 /* CartView.swift */,
 			);
 			path = iosApp;
 			sourceTree = "<group>";
@@ -244,6 +247,7 @@
 			files = (
 				B736D5BB265FDCDD00C47D13 /* RadioButtonField.swift in Sources */,
 				B7DE07C6265D0E1C006BA75F /* GetStarted.swift in Sources */,
+				B736D5BD2660E85200C47D13 /* CartView.swift in Sources */,
 				B736D5B9265FB85900C47D13 /* CheckoutView.swift in Sources */,
 				B736D5B4265F963A00C47D13 /* ProfileView.swift in Sources */,
 				B736D5B2265F446F00C47D13 /* ColorExt.swift in Sources */,
